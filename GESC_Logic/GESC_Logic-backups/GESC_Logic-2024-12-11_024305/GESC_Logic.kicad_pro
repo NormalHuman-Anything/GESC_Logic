@@ -489,8 +489,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../testing/",
-      "pos_files": "../testing/",
+      "plot": "",
+      "pos_files": "",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -500,7 +500,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "..\\testing\\bom.csv",
+    "bom_export_filename": "BOOOOOM.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -666,7 +666,7 @@
   "sheets": [
     [
       "c2bad76c-91a7-4f51-b877-6806882407f9",
-      "루트"
+      "Root"
     ],
     [
       "fcf4ec01-59cc-482e-8827-3844d9a0761d",

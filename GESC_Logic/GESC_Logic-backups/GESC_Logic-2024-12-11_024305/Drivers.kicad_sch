@@ -3634,7 +3634,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 124.46 40.6462 0)
 			(effects
 				(font
@@ -3978,7 +3978,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 124.46 87.6362 0)
 			(effects
 				(font
@@ -4014,7 +4014,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" " C14663"
 			(at 121.92 86.36 0)
 			(effects
 				(font
@@ -4449,7 +4449,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "lcsc:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
 			(at 128.27 96.52 0)
 			(effects
 				(font
@@ -5786,7 +5786,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "lcsc:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
 			(at 128.27 146.05 0)
 			(effects
 				(font
@@ -5948,7 +5948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "lcsc:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL"
 			(at 128.27 48.26 0)
 			(effects
 				(font
@@ -6498,7 +6498,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 124.46 137.1662 0)
 			(effects
 				(font
@@ -6534,7 +6534,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C14663"
+		(property "LCSC" " C14663"
 			(at 121.92 135.89 0)
 			(effects
 				(font
