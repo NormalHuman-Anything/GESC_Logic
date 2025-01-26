@@ -9080,7 +9080,6 @@
 	(hierarchical_label "BRK"
 		(shape input)
 		(at 201.93 134.62 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9092,7 +9091,6 @@
 	(hierarchical_label "BL"
 		(shape input)
 		(at 201.93 139.7 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9104,7 +9102,6 @@
 	(hierarchical_label "BH"
 		(shape input)
 		(at 201.93 83.82 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9116,7 +9113,6 @@
 	(hierarchical_label "AH"
 		(shape input)
 		(at 201.93 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9128,7 +9124,6 @@
 	(hierarchical_label "VBAT"
 		(shape input)
 		(at 228.6 36.83 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9140,7 +9135,6 @@
 	(hierarchical_label "AL"
 		(shape input)
 		(at 201.93 137.16 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9152,7 +9146,6 @@
 	(hierarchical_label "CL"
 		(shape input)
 		(at 201.93 142.24 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9164,7 +9157,6 @@
 	(hierarchical_label "CH"
 		(shape input)
 		(at 201.93 86.36 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -9176,7 +9168,6 @@
 	(hierarchical_label "VBAT"
 		(shape input)
 		(at 255.27 20.32 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10741,7 +10732,7 @@
 				)
 			)
 		)
-		(property "Value" "150k"
+		(property "Value" "360k"
 			(at 252.73 135.89 0)
 			(effects
 				(font
@@ -10826,7 +10817,7 @@
 				)
 			)
 		)
-		(property "Value" "150k"
+		(property "Value" "360k"
 			(at 252.73 102.87 0)
 			(effects
 				(font
@@ -12225,7 +12216,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3k"
+		(property "Value" "8.2k"
 			(at 252.73 147.32 0)
 			(effects
 				(font
@@ -14894,7 +14885,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3k"
+		(property "Value" "8.2k"
 			(at 252.73 114.3 0)
 			(effects
 				(font
@@ -15201,7 +15192,7 @@
 				)
 			)
 		)
-		(property "Value" "3.3k"
+		(property "Value" "8.2k"
 			(at 252.73 81.28 0)
 			(effects
 				(font
@@ -18588,7 +18579,7 @@
 				)
 			)
 		)
-		(property "Value" "150k"
+		(property "Value" "360k"
 			(at 252.73 69.85 0)
 			(effects
 				(font
