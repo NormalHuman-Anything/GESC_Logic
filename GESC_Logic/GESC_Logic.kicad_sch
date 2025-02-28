@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20231120)
+	(version 20250114)
 	(generator "eeschema")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(uuid "c2bad76c-91a7-4f51-b877-6806882407f9")
 	(paper "A4")
 	(lib_symbols)
@@ -98,6 +98,10 @@
 	(sheet
 		(at 208.28 95.25)
 		(size 30.48 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -127,63 +131,63 @@
 		)
 		(pin "CL" input
 			(at 208.28 105.41 180)
+			(uuid "8f644ff5-ec3f-4ee1-ab56-b27b79660b22")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "8f644ff5-ec3f-4ee1-ab56-b27b79660b22")
 		)
 		(pin "BL" input
 			(at 208.28 107.95 180)
+			(uuid "986d7e50-d189-42d8-bbc1-9311390b461f")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "986d7e50-d189-42d8-bbc1-9311390b461f")
 		)
 		(pin "BH" input
 			(at 208.28 113.03 180)
+			(uuid "f864803c-073e-470d-b849-d990a8d90a43")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "f864803c-073e-470d-b849-d990a8d90a43")
 		)
 		(pin "CH" input
 			(at 208.28 110.49 180)
+			(uuid "92032bf8-f75e-44e2-9e01-7f6d235e7274")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "92032bf8-f75e-44e2-9e01-7f6d235e7274")
 		)
 		(pin "AL" input
 			(at 208.28 101.6 180)
+			(uuid "c0cf244c-f9e5-4eb6-8eb6-ae035d13235b")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c0cf244c-f9e5-4eb6-8eb6-ae035d13235b")
 		)
 		(pin "AH" input
 			(at 208.28 99.06 180)
+			(uuid "c3762cf8-8d7d-468b-abe7-7b6a5cca2818")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
 			)
-			(uuid "c3762cf8-8d7d-468b-abe7-7b6a5cca2818")
 		)
 		(instances
 			(project "GESC_Logic"
@@ -196,6 +200,10 @@
 	(sheet
 		(at 58.42 100.33)
 		(size 25.4 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -234,6 +242,10 @@
 	(sheet
 		(at 123.19 91.44)
 		(size 48.26 36.83)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -263,83 +275,83 @@
 		)
 		(pin "AH" input
 			(at 171.45 100.33 0)
+			(uuid "568b2bf9-4f11-4b26-9c6e-4f6bf967e74e")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "568b2bf9-4f11-4b26-9c6e-4f6bf967e74e")
 		)
 		(pin "AL" input
 			(at 171.45 102.87 0)
+			(uuid "a561b880-181e-4f74-a364-0554fe1b4bc6")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "a561b880-181e-4f74-a364-0554fe1b4bc6")
 		)
 		(pin "CL" input
 			(at 171.45 105.41 0)
+			(uuid "17771e21-b663-4c17-a82d-0a342efe26b5")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "17771e21-b663-4c17-a82d-0a342efe26b5")
 		)
 		(pin "BL" input
 			(at 171.45 107.95 0)
+			(uuid "87ffd4d2-8533-4c93-9872-dfb30a93234a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "87ffd4d2-8533-4c93-9872-dfb30a93234a")
 		)
 		(pin "CH" input
 			(at 171.45 110.49 0)
+			(uuid "125d8d9f-e66a-428a-b3fd-f8d5fc620bbf")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "125d8d9f-e66a-428a-b3fd-f8d5fc620bbf")
 		)
 		(pin "BH" input
 			(at 171.45 113.03 0)
+			(uuid "66cfedeb-242c-44a8-bc83-da01c78faba9")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "66cfedeb-242c-44a8-bc83-da01c78faba9")
 		)
 		(pin "BRK" input
 			(at 171.45 115.57 0)
+			(uuid "476f46ee-b40d-471a-a09f-b354f279ff69")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "476f46ee-b40d-471a-a09f-b354f279ff69")
 		)
 		(pin "VBAT" input
 			(at 171.45 118.11 0)
+			(uuid "3a2231a8-47af-41cc-b133-cb8684f44f08")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
 			)
-			(uuid "3a2231a8-47af-41cc-b133-cb8684f44f08")
 		)
 		(instances
 			(project "GESC_Logic"
@@ -352,6 +364,10 @@
 	(sheet
 		(at 143.51 43.18)
 		(size 24.13 19.05)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -392,4 +408,5 @@
 			(page "1")
 		)
 	)
+	(embedded_fonts no)
 )
