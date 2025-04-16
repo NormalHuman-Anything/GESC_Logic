@@ -49,8 +49,8 @@
       "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_00009020_7ffffff9",
-    "zone_display_mode": 1
+    "visible_layers": "00000000_00000000_00000000_00000075",
+    "zone_display_mode": 0
   },
   "git": {
     "repo_password": "",
