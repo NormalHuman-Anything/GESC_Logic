@@ -513,7 +513,7 @@
       "plot": "C:/Users/user/Documents/GitHub/GESC_Logic/PROD/",
       "pos_files": "C:/Users/user/Documents/GitHub/GESC_Logic/PROD/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "GESC_Logic.step",
       "svg": "",
       "vrml": ""
     },
